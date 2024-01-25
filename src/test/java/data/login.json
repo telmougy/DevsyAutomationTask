@@ -1,0 +1,5 @@
+{
+  "username": "TestEmail@test.com",
+  "password": "12345678",
+  "expectedMessage" : "Logged in as Tarek Elmougy1"
+}
